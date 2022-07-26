@@ -1,6 +1,6 @@
 # Compilar y ejecutar archivos Java
 
-Los comandos para realizar la compilación y la ejecución vienen dentro de el JDK de java
+Los comandos para realizar la compilación y la ejecución vienen dentro del JDK de java
 
 ## Compilar archivo
 
